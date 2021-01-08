@@ -21,7 +21,7 @@
 title: Chris Lumnah's Blog
 email: chris@chrislumnah.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a spot where I write about the cool things I learn while working. I either want to share them or remember them. 
+ Just a spot where I write about the cool things I learn while working. I either want to share them or remember them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lumnah
@@ -29,8 +29,6 @@ github_username:  clumnah
 
 # Build settings
 theme: minima
-# remote_theme: pages-themes/hacker
-# theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 

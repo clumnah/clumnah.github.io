@@ -39,8 +39,11 @@ In this example, I will assume you already have an availability group set up wit
 
 This video shows the steps I took to add the SSISDB into an availability group. I even show publishing a SSIS package to the listener name instead of a SQL Server Name.
 
-![video](/assets/images/2017/05/adding-ssisdb-into-an-availability-group_dvd.mp4)
-
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="">
+    <source src="/assets/videos/2017/05/adding-ssisdb-into-an-availability-group_dvd.mp4" type="video/mp4">
+  </video>
+</figure>
 
 In case you do not want to watch the video, below is the process I did to add the SSISDB into the availability group.
 
